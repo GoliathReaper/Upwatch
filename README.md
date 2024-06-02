@@ -1,2 +1,13 @@
-# Upwatch
-Upwatch is an innovative uptime monitoring app built using Fast API, designed to ensure your websites and services are always running smoothly. With Upwatch, you can keep a vigilant eye on your online assets, receive instant notifications of downtime, and access detailed performance reports.
+# UpWatch - Uptime Monitoring and Reporting App
+
+UpWatch is a powerful uptime monitoring and reporting application designed to keep track of your servers and websites. It provides real-time monitoring, detailed reporting, and instant notifications to ensure you stay informed about the status of your infrastructure.
+Features
+
+- Real-time uptime monitoring using HTTP requests and ping checks
+- Detailed uptime status and response time tracking
+- Historical data storage in a SQLite database
+- Comprehensive reporting feature with customizable time ranges
+- SMS and email notifications for downtime events using Twilio and SendGrid
+- Intuitive and responsive user interface built with React
+- FastAPI integration
+- Robust testing suite and continuous integration
