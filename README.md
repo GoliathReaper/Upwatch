@@ -1,4 +1,4 @@
-![Designer (1)](https://github.com/GoliathReaper/Upwatch/assets/77969919/d3a9c641-30b3-4afd-b058-51dcec701da8)
+![Designer (1)|250x250](https://github.com/GoliathReaper/Upwatch/assets/77969919/d3a9c641-30b3-4afd-b058-51dcec701da8)
 
 
 # UpWatch - Uptime Monitoring and Reporting Web App
